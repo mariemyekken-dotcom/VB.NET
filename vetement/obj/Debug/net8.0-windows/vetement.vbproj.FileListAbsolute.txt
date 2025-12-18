@@ -1,0 +1,16 @@
+C:\Users\yekke\source\repos\vetement\vetement\obj\Debug\net8.0-windows\vetement.Form1.resources
+C:\Users\yekke\source\repos\vetement\vetement\obj\Debug\net8.0-windows\vetement.vbproj.GenerateResource.cache
+C:\Users\yekke\source\repos\vetement\vetement\obj\Debug\net8.0-windows\vetement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yekke\source\repos\vetement\vetement\obj\Debug\net8.0-windows\vetement.AssemblyInfoInputs.cache
+C:\Users\yekke\source\repos\vetement\vetement\obj\Debug\net8.0-windows\vetement.AssemblyInfo.vb
+C:\Users\yekke\source\repos\vetement\vetement\obj\Debug\net8.0-windows\vetement.vbproj.CoreCompileInputs.cache
+C:\Users\yekke\source\repos\vetement\vetement\bin\Debug\net8.0-windows\vetement.exe
+C:\Users\yekke\source\repos\vetement\vetement\bin\Debug\net8.0-windows\vetement.deps.json
+C:\Users\yekke\source\repos\vetement\vetement\bin\Debug\net8.0-windows\vetement.runtimeconfig.json
+C:\Users\yekke\source\repos\vetement\vetement\bin\Debug\net8.0-windows\vetement.dll
+C:\Users\yekke\source\repos\vetement\vetement\bin\Debug\net8.0-windows\vetement.pdb
+C:\Users\yekke\source\repos\vetement\vetement\obj\Debug\net8.0-windows\vetement.dll
+C:\Users\yekke\source\repos\vetement\vetement\obj\Debug\net8.0-windows\refint\vetement.dll
+C:\Users\yekke\source\repos\vetement\vetement\obj\Debug\net8.0-windows\vetement.pdb
+C:\Users\yekke\source\repos\vetement\vetement\obj\Debug\net8.0-windows\vetement.genruntimeconfig.cache
+C:\Users\yekke\source\repos\vetement\vetement\obj\Debug\net8.0-windows\ref\vetement.dll
